@@ -1,0 +1,34 @@
+{
+  "name": "copy-url-loader",
+  "version": "0.1.0",
+  "author": {
+    "name": "Mark Marijnissen"
+  },
+  "contributors":[
+  {
+    "name": "Tobias Koppers @sokra"
+  }
+  ],
+  "description": "copy url loader module for webpack",
+  "dependencies": {
+    "loader-utils": "0.2.x",
+    "mime": "1.2.x"
+  },
+  "peerDependencies": {
+    "copy-loader": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:markmarijnissen/copy-url-loader.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/markmarijnissen/copy-url-loader/issues"
+  },
+  "homepage": "https://github.com/markmarijnissen/copy-url-loader",
+}
