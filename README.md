@@ -1,4 +1,9 @@
+# DEPRECATED
+
+`file-loader` equivalent: `file?name=[path][name].[ext]&context=./src`
+
 # url loader for webpack
+
 
 ## Usage
 

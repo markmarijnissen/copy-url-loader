@@ -4,11 +4,9 @@
   "author": {
     "name": "Mark Marijnissen"
   },
-  "contributors":[
-  {
+  "contributors":[{
     "name": "Tobias Koppers @sokra"
-  }
-  ],
+  }],
   "description": "copy url loader module for webpack",
   "dependencies": {
     "loader-utils": "0.2.x",
@@ -30,5 +28,5 @@
   "bugs": {
     "url": "https://github.com/markmarijnissen/copy-url-loader/issues"
   },
-  "homepage": "https://github.com/markmarijnissen/copy-url-loader",
+  "homepage": "https://github.com/markmarijnissen/copy-url-loader"
 }
